@@ -7,4 +7,4 @@ for use on linux x86_64
 
 ## install
 
-just run ./setup.sh in this directory
+just run `source setup.sh` in this directory
